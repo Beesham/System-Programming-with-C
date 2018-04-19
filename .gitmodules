@@ -1,3 +1,15 @@
 [submodule "ClientServerMockUsingSockets"]
 	path = ClientServerMockUsingSockets
 	url = https://github.com/Beesham/ClientServerMockUsingSockets.git
+[submodule "ImageCreationUsingFork"]
+	path = ImageCreationUsingFork
+	url = https://github.com/Beesham/Image-Creation-Using-Fork.git
+[submodule "IPC_of_C_and_Bash"]
+	path = IPC_of_C_and_Bash
+	url = https://github.com/Beesham/IPC-of-C-and-Bash.git
+[submodule "ImageMergerWithSignals"]
+	path = ImageMergerWithSignals
+	url = https://github.com/Beesham/Image-Merger-With-Signals.git
+[submodule "ImageMergerWithSystemCalls"]
+	path = ImageMergerWithSystemCalls
+	url = https://github.com/Beesham/Image-Merger-With-System-Calls.git
