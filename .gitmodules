@@ -1,0 +1,3 @@
+[submodule "ClientServerMockUsingSockets"]
+	path = ClientServerMockUsingSockets
+	url = https://github.com/Beesham/ClientServerMockUsingSockets.git
